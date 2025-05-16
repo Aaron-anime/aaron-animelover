@@ -1,5 +1,10 @@
 # aaron-animelover
 A web-based tool for managing e-bike inventory, rentals, sales, and maintenance.
+
+
+
+
+
    <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -32,7 +37,7 @@ A web-based tool for managing e-bike inventory, rentals, sales, and maintenance.
             margin: 0;
             padding: 0;
         }
-        
+      
         body {
             font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             line-height: 1.6;
